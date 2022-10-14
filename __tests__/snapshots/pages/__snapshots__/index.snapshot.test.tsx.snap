@@ -2,10 +2,10 @@
 
 exports[`should render homepage matching snapshot 1`] = `
 <main
-  className="sc-gswNZR hqqbAB"
+  className="pages__Main-sc-ewtbjf-1 djNVoM"
 >
   <h1
-    className="sc-bcXHqe fxNlrP"
+    className="pages__Title-sc-ewtbjf-0 cJHDyG"
   >
      Hello World 
   </h1>
